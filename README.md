@@ -81,7 +81,7 @@ Proven ability to work collaboratively in agile teams, with effective communicat
 
 ---
 
-### 🔥 Personal Projects
+### 🔥 Projects
 
 
 #### 🧑‍💼📁📝 [Real Estate](https://reamp-brady.vercel.app/)
