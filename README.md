@@ -6,7 +6,7 @@
 <p align="center">
   <a href="mailto:zhangdepeng3@gmail.com">📧 zhangdepeng3@gmail.com</a> •
   <a href="www.linkedin.com/in/depeng-zhang" target="_blank">LinkedIn</a> •
-<!--   <a href="https://ybj.au" target="_blank">Portfolio</a> -->
+  <a href="https://resume-web-lemon.vercel.app" target="_blank">Portfolio</a>
 </p>
 
 
