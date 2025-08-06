@@ -86,5 +86,9 @@ Proven ability to work collaboratively in agile teams, with effective communicat
 
 #### 🧑‍💼📁📝 [Real Estate](https://reamp-brady.vercel.app/)
   
-Tech: React.js, TypeScript, dotnet, Azure
+Tech: React.js, TypeScript, .Net, SQL server, Azure
+
+#### 🧑‍💼📁📝 [Meetly Omni](https://uat.meetlyomni.com/)
+  
+Tech: React.js, Next.js, TypeScript, .Net, PostgreSQL
 
