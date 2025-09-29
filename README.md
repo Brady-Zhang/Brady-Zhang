@@ -6,7 +6,6 @@
 <p align="center">
   <a href="mailto:zhangdepeng3@gmail.com">📧 zhangdepeng3@gmail.com</a> •
   <a href="www.linkedin.com/in/depeng-zhang" target="_blank">LinkedIn</a> •
-  <a href="https://resume-web-lemon.vercel.app" target="_blank">Portfolio</a>
 </p>
 
 
@@ -82,11 +81,6 @@ Proven ability to work collaboratively in agile teams, with effective communicat
 ---
 
 ### 🔥 Projects
-
-
-#### 🧑‍💼📁📝 [Real Estate](https://reamp-brady.vercel.app/)
-  
-Tech: React.js, TypeScript, .Net, SQL server, Azure
 
 #### 🧑‍💼📁📝 [Meetly Omni](https://uat.meetlyomni.com/)
   
