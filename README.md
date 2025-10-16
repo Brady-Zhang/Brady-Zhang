@@ -2,14 +2,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=500&center=true&vCenter=true&width=480&height=35&lines=Hi%2C+I'm+Brady+Zhang+%F0%9F%91%8B+;Full+Stack+Developer;React+%2B+.Net+%2B+Azure+Lover" alt="Typing SVG" /></a>
 </h1>
 
-
-<p align="center">
-  <a href="mailto:zhangdepeng3@gmail.com">📧 zhangdepeng3@gmail.com</a> •
-  <a href="www.linkedin.com/in/depeng-zhang" target="_blank">LinkedIn</a> •
-</p>
-
-
-
 ---
 
 ### 🧑‍💻 About Me
@@ -64,8 +56,6 @@ Proven ability to work collaboratively in agile teams, with effective communicat
   </a>
 </p>
 
-
-
 ---
 
 
@@ -79,10 +69,3 @@ Proven ability to work collaboratively in agile teams, with effective communicat
 
 
 ---
-
-### 🔥 Projects
-
-#### 🧑‍💼📁📝 [Meetly Omni](https://uat.meetlyomni.com/)
-  
-Tech: React.js, Next.js, TypeScript, .Net, PostgreSQL
-
