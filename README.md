@@ -2,11 +2,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=500&center=true&vCenter=true&width=480&height=35&lines=Hi%2C+I'm+Brady+Zhang+%F0%9F%91%8B+;Full+Stack+Developer;React+%2B+.Net+%2B+Azure+Lover" alt="Typing SVG" /></a>
 </h1>
 
----
 
 ### 🧑‍💻 About Me
 
-Full-stack developer with 1 year of experience building and maintaining web applications using ASP.NET Core and React.
+Full-stack developer with experience building and maintaining web applications using ASP.NET Core and React.
 Skilled in designing scalable RESTful APIs and building responsive frontend interfaces with modern frameworks.
 Proven ability to work collaboratively in agile teams, with effective communication and problem-solving skills. 
 
